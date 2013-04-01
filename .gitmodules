@@ -7,3 +7,9 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = http://github.com/ervandew/supertab
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git://github.com/majutsushi/tagbar.git
+[submodule "bundle/vim-rails"]
+	path = bundle/vim-rails
+	url = http://github.com/tpope/vim-rails.git
